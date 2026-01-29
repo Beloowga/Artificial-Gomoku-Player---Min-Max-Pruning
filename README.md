@@ -1,6 +1,6 @@
 # Artificial-Gomoku-Player---Min-Max-Pruning
 Project in collaboration with Mustapha KHERIF and Vaitea LE
-Sept 2024 - Jan 2025
+<br>Sept 2024 - Jan 2025
 
 ## Overview
 This project implements an artificial intelligence agent capable of playing Gomoku (Five-in-a-Row) on a 15×15 board.
