@@ -1,4 +1,4 @@
-# Artificial-Gomoku-Player---MiniMax-Pruning
+# Artificial-Gomoku-Player---MiniMax-Alpha-Beta-Pruning
 Project in collaboration with Mustapha KHERIF and Vaitea LE
 <br>Sept 2024 - Jan 2025
 
